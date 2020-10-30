@@ -1,7 +1,7 @@
 # LocalizationArduino
 A project in  Telecommunication Devices Applications ECE AUTH
 
-Project with 7 arduino with 6 antennas
+Project with 7 arduino with 7 antennas
              1 touch sensor
              1 humidity/Temperature sensor
 
